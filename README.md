@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @tomomaruit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# **Hello World!🙌🐣**
 
-<!---
-tomomaruit/tomomaruit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# **About 'tomomaruit'**
+- I am majoring in Computer Science.
+
+# **Skills**
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,html)](https://skillicons.dev)
+
+# **Status**
+<p align="left"> 
+  <img alt="Top Langs" height="104px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomomaruit&layout=compact&show_icons=true&theme=merko" />
+</p>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tomomaruit&theme=merko&show_icons=ture" />
+</p>
