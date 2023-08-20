@@ -1,7 +1,7 @@
 # **Hello World!🙌🐣**
 
 
-# **About 'tomomaruit'**
+# **About 'Tomomaru'**
 - I am majoring in Computer Science.
 
 # **Skills**
